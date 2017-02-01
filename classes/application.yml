@@ -8,5 +8,6 @@ spring:
       
 # HTTP Server
 server:
+  address: 159.203.115.158
   port: 4444   # HTTP (Tomcat) port
   
