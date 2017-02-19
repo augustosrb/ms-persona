@@ -5,9 +5,10 @@ spring:
       host: localhost
       port: 27017
       uri: mongodb://localhost/test
-      
+          
 # HTTP Server
 server:
-  address: 159.203.115.158
+  address: 127.0.0.1
   port: 4444   # HTTP (Tomcat) port
+  
   
